@@ -1,1 +1,2 @@
 
+In this assignment, I extend the powerful idea of binary search trees from one dimension to multiple dimensions. In particular, we will work with points in R^k where k can be any positive integer. Such points might represent image data, audio data, or text. For example, machine learning methods often map such common data to feature vectors in a kD feature space, and then use these features in various ways. In this assigment, I therefore built a KD-Tree.
