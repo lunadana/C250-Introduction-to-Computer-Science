@@ -1,1 +1,3 @@
+Computers represent integers as binary numbers (base 2), typically using a relatively small number of bits e.g. 16, 32, or 64. In Java, integer primitive types short, int and long use these fixed number of bits, respectively. For certain applications such as in cryptography, however, one needs to work with very large positive numbers and do arithmetic operations on them. For such applications, it is necessary to go beyond the primitive type representation.
 
+In this assignment, I worked with arithmetic operations on large positive integers. Java has built-in class for doing so, called BigInteger which I was not supposed to use. My class MyBigInteger only allows us to represent non-negative integers.
