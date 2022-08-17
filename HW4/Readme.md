@@ -1,1 +1,1 @@
-This assignment aimed to works with hashmaps and graphs. In particular, I constructed a graph of vertices and edges using a breadth-1rst or depth-1rst search. I also implemented one of the O(nlog(n)) sorting algorithms that I have seen in class.
+This assignment aimed to work with hashmaps and graphs. In particular, I constructed a graph of vertices and edges using a breadth-1rst or depth-1rst search. I also implemented one of the O(nlog(n)) sorting algorithms that I have seen in class.
